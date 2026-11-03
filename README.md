@@ -82,6 +82,6 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 ## 9. iPad mini (5th Gen) (`iPad11,1` — A12 `8020`)
 
-| File | iOS | Size | Direct Download |
+| File | iPadOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPad11,1-8020.zip` | Older iOS | 181.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPad11.1-8020.zip) |
+| `iPad11,1-8020.zip` | iPadOS 26 | 181.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPad11.1-8020.zip) |
