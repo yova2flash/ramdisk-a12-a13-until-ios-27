@@ -9,7 +9,7 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone11,2-8020.zip` | Standard | 181.24 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.2-8020.zip) |
+| `iPhone11,2-8020.zip` | Older iOS | 181.24 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.2-8020.zip) |
 | `iPhone11,2-8020_B.zip` | iOS 18 | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.2-8020_B.zip) |
 
 ---
@@ -26,7 +26,7 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone11,6-8020.zip` | Standard | 181.25 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.6-8020.zip) |
+| `iPhone11,6-8020.zip` | Older iOS | 181.25 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.6-8020.zip) |
 | `iPhone11,6-8020_B.zip` | iOS 18 | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.6-8020_B.zip) |
 
 ---
@@ -35,7 +35,7 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone11,8-8020.zip` | Standard | 174.90 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.8-8020.zip) |
+| `iPhone11,8-8020.zip` | Older iOS | 174.90 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.8-8020.zip) |
 | `iPhone11,8-8020_B.zip` | iOS 18 | 164.00 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.8-8020_B.zip) |
 
 ---
@@ -44,7 +44,7 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone12,1-8030.zip` | Standard | 186.98 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.1-8030.zip) |
+| `iPhone12,1-8030.zip` | Older iOS | 186.98 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.1-8030.zip) |
 | `iPhone12,1-8030_B.zip` | iOS 26 | 196.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.1-8030_B.zip) |
 | `iPhone12,1-8030_27.zip` | iOS 27 | 225.97 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.1-8030_27.zip) |
 
@@ -54,7 +54,7 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone12,3-8030.zip` | Standard | 187.15 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.3-8030.zip) |
+| `iPhone12,3-8030.zip` | Older iOS | 187.15 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.3-8030.zip) |
 | `iPhone12,3-8030_B.zip` | iOS 26 | 196.78 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.3-8030_B.zip) |
 | `iPhone12,3-8030_27.zip` | iOS 27 | 226.30 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.3-8030_27.zip) |
 
@@ -64,7 +64,7 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone12,5-8030.zip` | Standard | 185.60 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.5-8030.zip) |
+| `iPhone12,5-8030.zip` | Older iOS | 185.60 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.5-8030.zip) |
 | `iPhone12,5-8030_B.zip` | iOS 26 | 154.77 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.5-8030_B.zip) |
 | `iPhone12,5-8030_27.zip` | iOS 27 | 226.31 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.5-8030_27.zip) |
 
@@ -74,7 +74,7 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone12,8-8030.zip` | Standard | 184.82 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.8-8030.zip) |
+| `iPhone12,8-8030.zip` | Older iOS | 184.82 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.8-8030.zip) |
 | `iPhone12,8-8030_B.zip` | iOS 26 | 194.43 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.8-8030_B.zip) |
 | `iPhone12,8-8030_27.zip` | iOS 27 | 223.95 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone12.8-8030_27.zip) |
 
@@ -84,4 +84,4 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 | File | iOS | Size | Direct Download |
 |---|---|---:|---|
-| `iPad11,1-8020.zip` | Standard | 181.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPad11.1-8020.zip) |
+| `iPad11,1-8020.zip` | Older iOS | 181.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPad11.1-8020.zip) |
