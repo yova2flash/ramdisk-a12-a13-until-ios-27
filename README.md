@@ -1,42 +1,45 @@
 # ramdisk a12 a13 until ios 27
 
-Ramdisk packages for Apple A12 (`8020`) and A13 (`8030`) devices (including **iOS 26 (`_B`)** and **iOS 27 (`_27`)** for supported A13 devices).
+Ramdisk packages for Apple A12 (`8020`) and A13 (`8030`) devices:
+- **A12 (`8020`):** Standard + **iOS 18 — Last Supported Update (`_B`)**
+- **A13 (`8030`):** Standard + **iOS 26 (`_B`)** + **iOS 27 (`_27`)**
+
 All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/tag/v1.0) and organized by device below.
 
 ---
 
 ## 1. iPhone XS (`iPhone11,2` — A12 `8020`)
 
-| File | Variant | Size | Direct Download |
+| File | iOS / Variant | Size | Direct Download |
 |---|---|---:|---|
 | `iPhone11,2-8020.zip` | Standard | 181.24 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.2-8020.zip) |
-| `iPhone11,2-8020_B.zip` | `_B` | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.2-8020_B.zip) |
+| `iPhone11,2-8020_B.zip` | iOS 18 — Last Supported Update (`_B`) | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.2-8020_B.zip) |
 
 ---
 
 ## 2. iPhone XS Max (`iPhone11,4` — A12 `8020`)
 
-| File | Variant | Size | Direct Download |
+| File | iOS / Variant | Size | Direct Download |
 |---|---|---:|---|
-| `iPhone11,4-8020_B.zip` | `_B` | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.4-8020_B.zip) |
+| `iPhone11,4-8020_B.zip` | iOS 18 — Last Supported Update (`_B`) | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.4-8020_B.zip) |
 
 ---
 
 ## 3. iPhone XS Max (`iPhone11,6` — A12 `8020`)
 
-| File | Variant | Size | Direct Download |
+| File | iOS / Variant | Size | Direct Download |
 |---|---|---:|---|
 | `iPhone11,6-8020.zip` | Standard | 181.25 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.6-8020.zip) |
-| `iPhone11,6-8020_B.zip` | `_B` | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.6-8020_B.zip) |
+| `iPhone11,6-8020_B.zip` | iOS 18 — Last Supported Update (`_B`) | 164.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.6-8020_B.zip) |
 
 ---
 
 ## 4. iPhone XR (`iPhone11,8` — A12 `8020`)
 
-| File | Variant | Size | Direct Download |
+| File | iOS / Variant | Size | Direct Download |
 |---|---|---:|---|
 | `iPhone11,8-8020.zip` | Standard | 174.90 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.8-8020.zip) |
-| `iPhone11,8-8020_B.zip` | `_B` | 164.00 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.8-8020_B.zip) |
+| `iPhone11,8-8020_B.zip` | iOS 18 — Last Supported Update (`_B`) | 164.00 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPhone11.8-8020_B.zip) |
 
 ---
 
@@ -82,6 +85,6 @@ All 20 archive files are hosted in the [**v1.0 Release**](https://github.com/yov
 
 ## 9. iPad mini (5th Gen) (`iPad11,1` — A12 `8020`)
 
-| File | Variant | Size | Direct Download |
+| File | iOS / Variant | Size | Direct Download |
 |---|---|---:|---|
 | `iPad11,1-8020.zip` | Standard | 181.46 MB | [Download](https://github.com/yova2flash/ramdisk-a12-a13-until-ios-27/releases/download/v1.0/iPad11.1-8020.zip) |
